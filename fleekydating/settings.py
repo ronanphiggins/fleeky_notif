@@ -69,8 +69,8 @@ WSGI_APPLICATION = 'fleekydating.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'newfleekydb',
-        'USER': 'newronan',
+        'NAME': 'fleekydb',
+        'USER': 'ronan',
         'PASSWORD': 'apple',
         'HOST': 'localhost',
         'PORT': '5432',
